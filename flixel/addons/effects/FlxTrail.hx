@@ -12,7 +12,7 @@ import flixel.math.FlxPoint;
 
 /**
  * Nothing too fancy, just a handy little class to attach a trail effect to a FlxSprite.
- * Inspired by the way "Buck" from the inofficial #flixel IRC channel 
+ * Inspired by the way "Buck" from the unofficial #flixel IRC channel 
  * creates a trail effect for the character in his game.
  * Feel free to use this class and adjust it to your needs.
  * @author Gama11
